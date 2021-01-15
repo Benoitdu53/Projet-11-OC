@@ -19,7 +19,6 @@ Pour cela, le développeur construit sa veille technologique :
     
 3. Outils de veille :
 
-* Feedly
   ![feedly](Feedly.png)
-* TweetDeck
+  
   ![tweetdeck](TweetDeck.png)
