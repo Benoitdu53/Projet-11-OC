@@ -22,4 +22,4 @@ Pour cela, le développeur construit sa veille technologique :
 * Feedly
   ![feedly](Feedly.png)
 * TweetDeck
-  ![tweetdeck](TweetDeck-P11.png)
+  ![tweetdeck](TweetDeck.png)
